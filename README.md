@@ -30,7 +30,7 @@ There is a databse connectivity through mysql
            >>mysql -u root -p -h localhost(If you have a password then after -p enter your password and if your username is also different you can change it also, here it is root)
            
             Enter password:
-            
+             
           After entering password you would be able to enter into it
           
   7.Now in your browser go into page :http://localhost/phpmysql/
