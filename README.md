@@ -28,6 +28,6 @@
 2. It is an interactive way to interact with students and alumni and event they can interact among themselves via messaging.
 3. There is logina and signin feature
 4. There is a static user profile template also.
-
+ 
 
            
