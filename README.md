@@ -3,7 +3,7 @@ This is a Message Board Application built in php, Bootstrap and Java Script.
 
 There is a databse connectivity through mysql
 
-                    How to use it on your local machine?
+  🔗 How to use it on your local machine?
   Steps:
   1.Install xampp on your laptop(prefer the latest version)
   
@@ -23,7 +23,7 @@ There is a databse connectivity through mysql
      
   6.Now open the cmd prompt and enter into the xampp folder
   
-        Type these commands one by one
+       🔗 Type these commands one by one
         
            >>cd mysql/bin/
            
@@ -41,12 +41,12 @@ There is a databse connectivity through mysql
   
   10.You could see the data info through cmd prompt or "http://localhost/phpmysql/{FILE_NAME}/admin.php" (here file name is "Hackathon final").
 
-                 How to use it
+  🔗 How to use it
 1.There is an admin page "http://localhost/phpmysql/{FILE_NAME}/admin.php" you can viwe the user list.
 
-2. It is an interactive way to interact with students and alumni and event they can interact among themselves via messaging.
+2. It is an nice way to interact with students and alumni and event they can interact among themselves via messaging.
 
-3. There is logina and signin feature
+3. There is login and signin feature
 
 4. There is a static user profile template also.
  
