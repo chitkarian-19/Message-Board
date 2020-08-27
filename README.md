@@ -4,7 +4,7 @@ This is a Message Board Application built in php, Bootstrap and Java Script.
 There is a databse connectivity through mysql
 
     🔗  How to use it on your local machine?
-  Steps:
+  
   1.Install xampp on your laptop(prefer the latest version)
   
   2.Download all the files on your system.
