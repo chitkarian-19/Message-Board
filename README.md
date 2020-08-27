@@ -41,14 +41,14 @@ There is a databse connectivity through mysql
   
   10.You could see the data info through cmd prompt or "http://localhost/phpmysql/{FILE_NAME}/admin.php" (here file name is "Hackathon final").
 
-  🔗 How to use it
-1.There is an admin page "http://localhost/phpmysql/{FILE_NAME}/admin.php" you can viwe the user list.
+    🔗 How to use it
+    1.There is an admin page "http://localhost/phpmysql/{FILE_NAME}/admin.php" you can viwe the user list.
 
-2. It is an nice way to interact with students and alumni and event they can interact among themselves via messaging.
+    2. It is an nice way to interact with students and alumni and event they can interact among themselves via messaging.
 
-3. There is login and signin feature
+    3. There is login and signin feature
 
-4. There is a static user profile template also.
+    4. There is a static user profile template also.
  
 
            
